@@ -1,4 +1,4 @@
-### Hi there :hand:
+### Hi there :wave:
 
 I work as a full-time software engineer. In my spare time, I do the following:
 
