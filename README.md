@@ -1,10 +1,15 @@
 ### Hi there :wave:
 
-I work as a full-time software engineer. In my spare time, I do the following:
+I work as a full-time software engineer.
 
-- :computer: Work on open-source projects
-- :camera: Shoot photos for clients, family and friends
-- :drum: Play the drums for fun
+I use GitHub as a platform to empower developers and for experimenting with the latest tech.
+
+In my spare time:
+
+- :computer: I'm working on open-source projects
+- :seedling: I'm learning Machine Learning on Coursera
+- :camera: I shoot photos for family and friends
+- :drum: I play the drums for fun
 
 ---
 
