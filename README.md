@@ -7,7 +7,6 @@ I use GitHub as a platform to empower developers and for experimenting with the 
 In my spare time:
 
 - :computer: I'm working on open-source projects
-- :seedling: I'm learning Machine Learning on Coursera
 - :camera: I shoot photos for family and friends
 - :drum: I play the drums for fun
 
