@@ -6,6 +6,6 @@ I use GitHub as a platform to empower developers and for experimenting with the 
 
 In my spare time:
 
-- :computer: I'm working on open-source projects
+- :computer: I work on open-source projects
 - :camera: I shoot photos for family and friends
 - :drum: I play the drums for fun
