@@ -2,7 +2,7 @@
 
 I work as a full-time software engineer.
 
-I use GitHub as a platform to empower developers and for experimenting with the latest tech.
+I use GitHub as a platform to empower developers and to experiment with the latest tech.
 
 In my spare time:
 
