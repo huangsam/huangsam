@@ -1,12 +1,27 @@
 ### Hi there :wave:
 
-I work as a full-time software engineer.
+I'm a software engineer with 10+ years of experience. 🧑‍💻
 
-I use GitHub as a platform to empower developers and to experiment with the latest tech.
+I use GitHub as a platform to empower developers and to experiment with the latest tech. 🚀
+
+---
+
+Want to learn some programming languages from the [TIOBE], but don't know where to start?
+
+Check these out! 👇
+
+- Python ➡️ [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python)
+- Java ➡️ [huangsam/java-trial](https://github.com/huangsam/java-trial)
+- Golang ➡️ [huangsam/go-trial](https://github.com/huangsam/go-trial)
+- C++ ➡️ [huangsam/cpp-trial](https://github.com/huangsam/cpp-trial)
+
+---
 
 In my spare time:
 
-- :computer: I work on open-source projects
-- :camera: I shoot photos for family and friends
-- :drum: I play the drums in band settings
-- :keyboard: I build custom keyboards
+- 💻 I work on open-source projects
+- 📷 I shoot photos for family and friends
+- 🥁 I play the drums in band settings
+- ⌨️ I build custom keyboards
+
+[TIOBE]: https://www.tiobe.com/tiobe-index/
