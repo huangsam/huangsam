@@ -10,10 +10,10 @@ Want to learn some programming languages from the [TIOBE], but don't know where 
 
 Check these out! 👇
 
-- Python ➡️ [ultimate-python](https://github.com/huangsam/ultimate-python)
-- Java ➡️ [java-trial](https://github.com/huangsam/java-trial)
-- Golang ➡️ [go-trial](https://github.com/huangsam/go-trial)
-- C++ ➡️ [cpp-trial](https://github.com/huangsam/cpp-trial)
+- ➡️ [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python)
+- ➡️ [huangsam/java-trial](https://github.com/huangsam/java-trial)
+- ➡️ [huangsam/go-trial](https://github.com/huangsam/go-trial)
+- ➡️ [huangsam/cpp-trial](https://github.com/huangsam/cpp-trial)
 
 ---
 
