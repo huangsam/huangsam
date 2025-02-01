@@ -11,15 +11,9 @@ In my spare time:
 - 🥁 I play the drums in band settings
 - ⌨️ I build custom keyboards
 
----
+Dive into my zero-to-one guides for [Python], [Java], [Go] and [C++]!
 
-Want to learn some programming languages from the [TIOBE], but don't know where to start?
-
-Check these out! 👇
-
-- ➡️ [huangsam/ultimate-python](https://github.com/huangsam/ultimate-python)
-- ➡️ [huangsam/java-trial](https://github.com/huangsam/java-trial)
-- ➡️ [huangsam/go-trial](https://github.com/huangsam/go-trial)
-- ➡️ [huangsam/cpp-trial](https://github.com/huangsam/cpp-trial)
-
-[TIOBE]: https://www.tiobe.com/tiobe-index/
+[C++]: https://github.com/huangsam/cpp-trial
+[Go]: https://github.com/huangsam/go-trial
+[Java]: https://github.com/huangsam/java-trial
+[Python]: https://github.com/huangsam/ultimate-python
