@@ -14,8 +14,7 @@ In my spare time:
 If you want something practical:
 
 - Dive into my zero-to-one guides for [Python], [Java], [C++] and [Go]
-- Stay productive with [dotfiles](https://github.com/huangsam/dotfiles)
-- Check out my repos for a tool that fits your needs
+- Stay productive with [dotfiles]
 
 Thanks for swinging by this side of the web! 🙏
 
@@ -23,3 +22,4 @@ Thanks for swinging by this side of the web! 🙏
 [Go]: https://github.com/huangsam/go-trial
 [Java]: https://github.com/huangsam/java-trial
 [Python]: https://github.com/huangsam/ultimate-python
+[dotfiles]: https://github.com/huangsam/dotfiles
