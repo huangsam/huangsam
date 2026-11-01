@@ -13,7 +13,7 @@ If you want something practical:
 
 - 🎓 Dive into my zero-to-one guides for [Python], [Java], and [Go]
 - 💨 Stay productive with your macOS machine by using [dotfiles]
-- ✨ See what I've been learning about systems on [Systology]
+- 🔮 See what I've been learning about systems on [Systology]
 
 Thanks for swinging by this side of the web!
 
