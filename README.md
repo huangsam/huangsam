@@ -11,7 +11,13 @@ In my spare time:
 - 🥁 I play the drums in band settings
 - ⌨️ I build custom keyboards
 
-Dive into my zero-to-one guides for [Python], [Java], [C++] and [Go]!
+If you want something practical:
+
+- Dive into my zero-to-one guides for [Python], [Java], [C++] and [Go]
+- Stay productive with [dotfiles](https://github.com/huangsam/dotfiles)
+- Check out my repos for a tool that fits your needs
+
+Thanks for swinging by this side of the web! 🙏
 
 [C++]: https://github.com/huangsam/cpp-trial
 [Go]: https://github.com/huangsam/go-trial
