@@ -4,7 +4,6 @@ I'm a software engineer with 10+ years of experience, using GitHub to empower de
 
 In my spare time:
 
-- 💻 I work on open-source projects
 - 📷 I shoot photos for family and friends
 - 🥁 I play the drums in band settings
 - ⌨️ I build custom keyboards
